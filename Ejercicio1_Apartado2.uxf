@@ -1,0 +1,24 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>480</x><y>150</y><w>210</w><h>110</h></coordinates><panel_attributes>Jugador
+--
+-IdJugador: int
+-Nombre: string
+-NVidas: int
+--
++GetJugador(): Jugador
++SetJugador(int id, string nombre, int vidas)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>300</x><y>390</y><w>210</w><h>80</h></coordinates><panel_attributes>Principiante
+--
++Desplazarse(x, y)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>660</x><y>380</y><w>210</w><h>90</h></coordinates><panel_attributes>Avanzado
+--
++Andar(x, y)
++Conducir()
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>650</x><y>580</y><w>230</w><h>120</h></coordinates><panel_attributes>Vehiculo
+--
++Velocidad: decimal
+-const VelocidadMaxima: decimal
+--
++GetVehiculo(): Vehiculo
++SetVelocidad(decimal inputVelocidad)</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>750</x><y>460</y><w>50</w><h>140</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;&lt;-
+m1=0..1
+m2=0..n</panel_attributes><additional_attributes>10;10;10;120</additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>250</y><w>200</w><h>160</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>180;10;180;80;10;80;10;140</additional_attributes></element><element><id>Relation</id><coordinates><x>570</x><y>250</y><w>210</w><h>150</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;80;190;80;190;130</additional_attributes></element></diagram>

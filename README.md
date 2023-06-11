@@ -17,9 +17,6 @@ Diagrama de clases en Visual Studio 2022
 ### Ejercicio 2
 Diagrama de clases UML
  1. Instituto
- ```
-![Ejercicio2](https://i.ibb.co/cy6fvxW/Ejercicio2-Apartado1.png)
-```
  3. Juego
  4. Centro de astrofísica
 

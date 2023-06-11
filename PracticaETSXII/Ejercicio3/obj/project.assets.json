@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Necro\\.nuget\\packages\\": {}
+    "C:\\Users\\yosi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Necro's Files\\Desktop\\Repositores\\ETS_PracticaXI\\PracticaETSXII\\Ejercicio3\\Ejercicio3.csproj",
+      "projectUniqueName": "D:\\repositorios\\ETS_PracticaXI\\PracticaETSXII\\Ejercicio3\\Ejercicio3.csproj",
       "projectName": "Ejercicio3",
-      "projectPath": "A:\\Necro's Files\\Desktop\\Repositores\\ETS_PracticaXI\\PracticaETSXII\\Ejercicio3\\Ejercicio3.csproj",
-      "packagesPath": "C:\\Users\\Necro\\.nuget\\packages\\",
-      "outputPath": "A:\\Necro's Files\\Desktop\\Repositores\\ETS_PracticaXI\\PracticaETSXII\\Ejercicio3\\obj\\",
+      "projectPath": "D:\\repositorios\\ETS_PracticaXI\\PracticaETSXII\\Ejercicio3\\Ejercicio3.csproj",
+      "packagesPath": "C:\\Users\\yosi\\.nuget\\packages\\",
+      "outputPath": "D:\\repositorios\\ETS_PracticaXI\\PracticaETSXII\\Ejercicio3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Necro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yosi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
